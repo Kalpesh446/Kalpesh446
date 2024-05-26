@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 🌱 I’m currently learning **React in Frontend Web Development**
+- 🌱 I’m currently learning **React in Frontend Web Development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kalpesh446](https://github.com/Kalpesh446)
 
