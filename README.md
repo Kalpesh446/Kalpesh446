@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejash2911&label=Profile%20views&color=0e75b6&style=flat" alt="tejash2911" /> </p>
 
-- 🔭 I’m currently working on **something cool!**
+- 🔭 I’m currently working on **something cool!** 
 
-- 🌱 I’m currently learning **React in Frontend Web Development**
+- 🌱 I’m currently learning **React in Frontend Web Development** and also learning Backend in Laravel 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kalpesh446](https://github.com/Kalpesh446)
 
