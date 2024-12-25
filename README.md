@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kalpesh446](https://github.com/Kalpesh446)
 
-- 💬 Ask me about **Html, Css, Javascript and React**
+- 💬 Ask me about **Html, Css, Javascript, React and Redux**
 
 - 📫 How to reach me **kalpeshchavda446@gmail.com**
 
